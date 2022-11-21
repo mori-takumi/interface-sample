@@ -1,8 +1,9 @@
 import java.util.ArrayList;
+import java.util.List;
 
 class LessonMain {
     public static void main(String[] args) {
-        ArrayList<String> names = new ArrayList<>();
+        List<String> names = new ArrayList<>();
         names.add("太陽");
         names.add("水星");
         names.add("木星");
