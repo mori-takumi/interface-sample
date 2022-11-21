@@ -1,12 +1,11 @@
 import java.util.ArrayList;
 
-class List {
+class Lesson {
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
         names.add("太陽");
         names.add("水星");
         names.add("木星");
-
         System.out.println("要素の数");
         System.out.println(names.size());
         System.out.println(names.get(0));
