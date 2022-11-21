@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Lesson {
+class LessonMain {
     public static void main(String[] args) {
         ArrayList<String> names = new ArrayList<>();
         names.add("太陽");
@@ -28,14 +28,3 @@ class Lesson {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
